@@ -1,0 +1,9 @@
+body{
+  font-family: 'Open Sans', sans-serifv !important;
+  /* !important makes sure the boostrap doesn't overide the rules  */
+}
+
+.text-slanted{
+  font-family: 'Courgette', cursive !important;
+  /* !important makes sure the boostrap doesn't overide the rules  */
+}
